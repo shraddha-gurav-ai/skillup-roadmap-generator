@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skillup-roadmap-generator/static/css/main.f57c984f.css",
+    "main.js": "/skillup-roadmap-generator/static/js/main.b8ca6a02.js",
+    "static/js/453.1e49ba0e.chunk.js": "/skillup-roadmap-generator/static/js/453.1e49ba0e.chunk.js",
+    "index.html": "/skillup-roadmap-generator/index.html",
+    "main.f57c984f.css.map": "/skillup-roadmap-generator/static/css/main.f57c984f.css.map",
+    "main.b8ca6a02.js.map": "/skillup-roadmap-generator/static/js/main.b8ca6a02.js.map",
+    "453.1e49ba0e.chunk.js.map": "/skillup-roadmap-generator/static/js/453.1e49ba0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f57c984f.css",
+    "static/js/main.b8ca6a02.js"
+  ]
+}
